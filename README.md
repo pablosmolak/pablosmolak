@@ -1,6 +1,10 @@
 <div>
   <h1>Olá, Como vai? Sou o <i>Pablo Smolak</i>🫡</h1>
+  <p align="center" >Sou Técnico em Informática formado pelo <a href="https://portal.ifro.edu.br/vilhena">IFRO - Campus Vilhena</p>
+  <p align="center" >Sou estudante de Análise e Desenvolvimento de Sistemas no <a href="https://portal.ifro.edu.br/vilhena">IFRO - Campus Vilhena</p>
 </div>
+
+  ##
 
 <div align="center">
   <a href="https://github.com/pablosmolak">
