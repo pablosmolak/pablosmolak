@@ -1,22 +1,9 @@
-## Olá Sou o Pablo Smolak 😁
-
-<!--
-**pablosmolak/pablosmolak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <h1>Olá, Sou o <i>Pablo Smolak</i>🫡</h1>
+</div>
 
 <div align="center">
-  <a href="https://github.com/Alxdelira">
+  <a href="https://github.com/pablosmolak">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablosmolak&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Pablo Smolak"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosmolak&layout=compact&langs_count=16&theme=radical" alt="Linguagens mais usadas de Pablo Smolak no GitHub"/>
   </a>
